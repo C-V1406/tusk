@@ -1,0 +1,6 @@
+welcome to this notes section 
+// we have notes for programming for diffeent languages like
+1> c
+2>c++
+3>java
+
